@@ -1,0 +1,13 @@
+需要的软件包：
+torch>=2.0
+torchvision
+regex
+ftfy
+tqdm
+huggingface_hub
+safetensors
+timm
+
+可视化图保存在moco_separate_visualizations
+model_train_1.py为模型的可执行程序，可完成模型的训练、验证和测试
+moco_test_metrics_...。txt为模型的测试结果
